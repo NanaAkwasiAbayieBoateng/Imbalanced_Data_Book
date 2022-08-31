@@ -1,4 +1,5 @@
 # Introduction {#intro}
+
 ## Applications
 
 You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
@@ -20,7 +21,6 @@ knitr::kable(
 ```
 
 You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
-
 
 C:/Users/nboateng/OneDrive - Nice Systems Ltd/Documents/Rscripts/bookdown-demo-master
 
